@@ -8,6 +8,8 @@ I enjoy thought-provoking conversations about `new languages`, `frameworks` and 
 
 I obsess about finding better ways to do things as a programmer and as an individual.
 
+I am open to new opportunities. 
+
 <br><br>
 
 <!--
