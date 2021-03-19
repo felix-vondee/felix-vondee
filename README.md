@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=felix-vondee&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="Greg0109's GitHub Stats" style='width: 50%'>
 </a>
 <br><br>
-(https://komarev.com/ghpvc/?username=felix-vondee&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=felix-vondee&color=dc143c)
